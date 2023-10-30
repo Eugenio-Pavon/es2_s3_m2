@@ -1,0 +1,20 @@
+.prodotti {
+  width: 20%;
+}
+.imgProdotti {
+  height: 100px;
+}
+.divProdotti {
+  display: flex;
+  gap: 20px;
+}
+footer {
+  margin-top: 5%;
+  text-align: center;
+}
+.aggiunta {
+  background-color: rgb(255, 34, 0);
+}
+.visilita {
+  visibility: hidden;
+}
